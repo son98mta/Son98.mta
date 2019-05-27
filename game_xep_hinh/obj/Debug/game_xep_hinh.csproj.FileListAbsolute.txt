@@ -1,0 +1,98 @@
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojAssemblyReference.cache
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.Form1.resources
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.cache
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\Dell 5537\Desktop\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojAssemblyReference.cache
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.Form1.resources
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.cache
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\Dell 5537\Desktop\thuc_tap_nhom\Thuc tap nhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojResolveAssemblyReference.cache
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormChoiGame.resources
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormMain.resources
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+C:\Users\DuyBao\Documents\Visual Studio 2015\Projects\GameXepHinh\ThucTapNhom\game_xep_hinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.Cache
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojAssemblyReference.cache
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormChoiGame.resources
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormMain.resources
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.cache
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormXepHang.resources
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojResolveAssemblyReference.cache
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormChoiGame.resources
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormMain.resources
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormXepHang.resources
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+C:\Users\DuyBao\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormChoiGame.resources
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormMain.resources
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormXepHang.resources
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.Cache
+E:\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.Designer.cs
+E:\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.xsc
+E:\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.xsd
+E:\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.xss
+E:\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+E:\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+E:\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojAssemblyReference.cache
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormChoiGame.resources
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormMain.resources
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormXepHang.resources
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.cache
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.CoreCompileInputs.cache
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+E:\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.Designer.cs
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.xsc
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.xsd
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\GameXepHinhDataSet.xss
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.pdb
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csprojAssemblyReference.cache
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormChoiGame.resources
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormMain.resources
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormXepHang.resources
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.Properties.Resources.resources
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.GenerateResource.cache
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.CoreCompileInputs.cache
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\Interop.WMPLib.dll
+C:\Users\Handles\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csproj.ResolveComReference.cache
